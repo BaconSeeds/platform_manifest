@@ -1,4 +1,4 @@
-platform_manifest             Scroll down to sync your repository
+platform_manifest             
 
                       =============Purity Kang AKA Pure Kang ================
       
@@ -8,6 +8,7 @@ platform_manifest             Scroll down to sync your repository
                                  "Where all Technology Matters"                                       
   
                                           Intro + Goal   
+                                          
  * Hello my name is Techinstein on the web. I am a huge Tech Microsoft / Android enthusiast. This
  is going to be my first Android project and attempt of making the WWW's most unique rom  that's       
  going to be kanged from Purity Rom and for the Nexus 7. Feel free to compile for any Android Device
